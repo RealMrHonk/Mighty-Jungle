@@ -1,34 +1,22 @@
 fileFormatVersion: 2
-guid: f76ebf142573c3b428c53168b6087963
+guid: e23f9d8e2197df549bc3f39034c9d51e
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4018871333093309099
-    second: DemoTilemap_0
+      213: -9167467303041275419
+    second: UI-SpriteSheet_0
   - first:
-      213: -4842045759909099198
-    second: DemoTilemap_1
+      213: -4994172432219775317
+    second: UI-SpriteSheet_1
   - first:
-      213: 2265432449641992824
-    second: DemoTilemap_2
+      213: 3466901297056496654
+    second: UI-SpriteSheet_2
   - first:
-      213: 3762508331665479373
-    second: DemoTilemap_3
+      213: -945183215593956492
+    second: UI-SpriteSheet_3
   - first:
-      213: -5132899154905003650
-    second: DemoTilemap_4
-  - first:
-      213: 8148422550557202001
-    second: DemoTilemap_5
-  - first:
-      213: 6221218960544805340
-    second: DemoTilemap_6
-  - first:
-      213: 5810541674458298615
-    second: DemoTilemap_7
-  - first:
-      213: 5521187537689523241
-    second: DemoTilemap_8
+      213: -7627470393746009492
+    second: UI-SpriteSheet_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -94,7 +82,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -106,7 +94,7 @@ TextureImporter:
     buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -118,7 +106,7 @@ TextureImporter:
     buildTarget: Windows Store Apps
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: -1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -130,11 +118,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: DemoTilemap_0
+      name: UI-SpriteSheet_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 32
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -144,18 +132,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 55509f0c0d91a38c0800000000000000
-      internalID: -4018871333093309099
+      spriteID: 5e967382f0d96c080800000000000000
+      internalID: -9167467303041275419
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DemoTilemap_1
+      name: UI-SpriteSheet_1
       rect:
         serializedVersion: 2
         x: 16
-        y: 32
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -165,18 +153,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2498e6e19099dccb0800000000000000
-      internalID: -4842045759909099198
+      spriteID: baedd7612a221bab0800000000000000
+      internalID: -4994172432219775317
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DemoTilemap_2
+      name: UI-SpriteSheet_2
       rect:
         serializedVersion: 2
         x: 32
-        y: 32
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -186,18 +174,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 872dd876fce607f10800000000000000
-      internalID: 2265432449641992824
+      spriteID: e0cb46a7c58ec1030800000000000000
+      internalID: 3466901297056496654
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DemoTilemap_3
+      name: UI-SpriteSheet_3
       rect:
         serializedVersion: 2
-        x: 0
-        y: 16
+        x: 48
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -207,18 +195,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc65e5d946d173430800000000000000
-      internalID: 3762508331665479373
+      spriteID: 47b5cda8fd802e2f0800000000000000
+      internalID: -945183215593956492
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: DemoTilemap_4
+      name: UI-SpriteSheet_4
       rect:
         serializedVersion: 2
-        x: 16
-        y: 16
+        x: 64
+        y: 240
         width: 16
         height: 16
       alignment: 0
@@ -228,92 +216,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e790cf3f96744c8b0800000000000000
-      internalID: -5132899154905003650
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DemoTilemap_5
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1569eb53323051170800000000000000
-      internalID: 8148422550557202001
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DemoTilemap_6
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: cd1b235eea5365650800000000000000
-      internalID: 6221218960544805340
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DemoTilemap_7
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7f8b0ba0ed033a050800000000000000
-      internalID: 5810541674458298615
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: DemoTilemap_8
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9243c4220d23f9c40800000000000000
-      internalID: 5521187537689523241
+      spriteID: c62d5f5c618c52690800000000000000
+      internalID: -7627470393746009492
       vertices: []
       indices: 
       edges: []

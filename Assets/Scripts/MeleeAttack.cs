@@ -16,7 +16,6 @@ public class MeleeAttack : MonoBehaviour
     {
         if (1<<collision.gameObject.layer == attackLayer.value)
         {
-            print("hursens");
             collision.GetComponent<IDamageable>().TakeDamage(damage);
         }
     }
